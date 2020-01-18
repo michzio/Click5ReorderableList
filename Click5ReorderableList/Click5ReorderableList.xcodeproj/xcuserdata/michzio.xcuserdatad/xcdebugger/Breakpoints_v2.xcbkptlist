@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0EBC39B7-764B-4C73-976D-6087FA4CFBF4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D9A8693-5317-41D0-B4F7-43EDF9113E3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5D9A8693-5317-41D0-B4F7-43EDF9113E3D - 664e36c6ed699c08"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Click5ReorderableList.ContentView.body.getter : some"
+                  moduleName = "Click5ReorderableList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michzio/Click5Interactive/Reusable%20Parts/Click5ReorderableList/Click5ReorderableList/Click5ReorderableList/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "5D9A8693-5317-41D0-B4F7-43EDF9113E3D - 4181ac80fa42c0c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A where A1: SwiftUI.View&gt;(trailing: A1) -&gt; some&gt;&gt;.0 in Click5ReorderableList.ContentView.body.getter : some"
+                  moduleName = "Click5ReorderableList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michzio/Click5Interactive/Reusable%20Parts/Click5ReorderableList/Click5ReorderableList/Click5ReorderableList/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB561DE0-A4D9-47A9-AB00-2EC173523A4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ReorderableList/ReorderableList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "init(onReorder:onDelete:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F20DD1B-B717-4F7E-BF4B-A02FE805ED9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ReorderableList/ReorderableList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "init(onReorder:onDelete:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C085D704-6662-499D-86D8-2614E11838A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ReorderableList/ReorderableList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "init(onReorder:onDelete:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C085D704-6662-499D-86D8-2614E11838A8 - 23d729d0bcd0ee5c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Click5ReorderableList.ReorderableList.init&lt;A, B, C where A: Swift.RandomAccessCollection, B: Swift.Hashable, C: SwiftUI.View&gt;(onReorder: (Swift.Int, Swift.Int) -&gt; (), onDelete: Swift.Optional&lt;(Swift.Int) -&gt; Swift.Bool&gt;, _: () -&gt; SwiftUI.ForEach&lt;A, B, C&gt;) -&gt; Click5ReorderableList.ReorderableList"
+                  moduleName = "Click5ReorderableList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michzio/Click5Interactive/Reusable%20Parts/Click5ReorderableList/Click5ReorderableList/Click5ReorderableList/ReorderableList/ReorderableList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "550">
+               </Location>
+               <Location
+                  uuid = "C085D704-6662-499D-86D8-2614E11838A8 - 80f71c43b69fffb8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (A.Element) -&gt; () in Click5ReorderableList.ReorderableList.init&lt;A, B, C where A: Swift.RandomAccessCollection, B: Swift.Hashable, C: SwiftUI.View&gt;(onReorder: (Swift.Int, Swift.Int) -&gt; (), onDelete: Swift.Optional&lt;(Swift.Int) -&gt; Swift.Bool&gt;, _: () -&gt; SwiftUI.ForEach&lt;A, B, C&gt;) -&gt; Click5ReorderableList.ReorderableList"
+                  moduleName = "Click5ReorderableList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michzio/Click5Interactive/Reusable%20Parts/Click5ReorderableList/Click5ReorderableList/Click5ReorderableList/ReorderableList/ReorderableList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "401">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C5263CF-533A-47B4-B8DF-64E4F92BF988"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ReorderableList/ReorderableList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "init(onReorder:onDelete:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FADAE38-58CC-4001-A8B5-58A12D6A5E18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ReorderableList/ReorderableList2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE5B50BA-A4F2-4AD1-8A09-02BF2D76EE8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ReorderableList/ReorderableList2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4231E2FF-B760-474B-97A6-E7158FD8A8AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ReorderableList/ReorderableList2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EEA4B39-D4B1-4DA3-A373-3E65B7E61454"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ReorderableList/ReorderableList2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "750CBB26-B32D-42CB-B0A7-0AEEE082846B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Click5ReorderableList/ReorderableList/ReorderableList+Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "addItem(_:at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
